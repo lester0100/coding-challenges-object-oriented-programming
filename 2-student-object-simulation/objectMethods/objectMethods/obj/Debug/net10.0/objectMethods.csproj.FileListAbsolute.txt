@@ -1,0 +1,14 @@
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\bin\Debug\net10.0\objectMethods.exe
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\bin\Debug\net10.0\objectMethods.deps.json
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\bin\Debug\net10.0\objectMethods.runtimeconfig.json
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\bin\Debug\net10.0\objectMethods.dll
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\bin\Debug\net10.0\objectMethods.pdb
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\objectMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\objectMethods.AssemblyInfoInputs.cache
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\objectMethods.AssemblyInfo.cs
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\objectMethods.csproj.CoreCompileInputs.cache
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\objectMethods.dll
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\refint\objectMethods.dll
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\objectMethods.pdb
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\objectMethods.genruntimeconfig.cache
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\2-student-object-simulation\objectMethods\objectMethods\obj\Debug\net10.0\ref\objectMethods.dll

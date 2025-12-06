@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C49A8D9-F27B-419C-BE6E-220C2A105F58}|objectMethods\\objectMethods.csproj|c:\\projects\\c#\\csharp-tutorial-projects\\youtube-oop\\2-student-object-simulation\\objectmethods\\objectmethods\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C49A8D9-F27B-419C-BE6E-220C2A105F58}|objectMethods\\objectMethods.csproj|solutionrelative:objectmethods\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C49A8D9-F27B-419C-BE6E-220C2A105F58}|objectMethods\\objectMethods.csproj|c:\\projects\\c#\\csharp-tutorial-projects\\youtube-oop\\2-student-object-simulation\\objectmethods\\objectmethods\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C49A8D9-F27B-419C-BE6E-220C2A105F58}|objectMethods\\objectMethods.csproj|solutionrelative:objectmethods\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C49A8D9-F27B-419C-BE6E-220C2A105F58}|objectMethods\\objectMethods.csproj|c:\\projects\\c#\\csharp-tutorial-projects\\youtube-oop\\2-student-object-simulation\\objectmethods\\objectmethods\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C49A8D9-F27B-419C-BE6E-220C2A105F58}|objectMethods\\objectMethods.csproj|solutionrelative:objectmethods\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C49A8D9-F27B-419C-BE6E-220C2A105F58}|objectMethods\\objectMethods.csproj|c:\\projects\\c#\\csharp-tutorial-projects\\youtube-oop\\2-student-object-simulation\\objectmethods\\objectmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C49A8D9-F27B-419C-BE6E-220C2A105F58}|objectMethods\\objectMethods.csproj|solutionrelative:objectmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\objectMethods\\Input.cs",
+              "RelativeDocumentMoniker": "objectMethods\\Input.cs",
+              "ToolTip": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\objectMethods\\Input.cs",
+              "RelativeToolTip": "objectMethods\\Input.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:23:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\objectMethods\\Validation.cs",
+              "RelativeDocumentMoniker": "objectMethods\\Validation.cs",
+              "ToolTip": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\objectMethods\\Validation.cs",
+              "RelativeToolTip": "objectMethods\\Validation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:09:41.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\objectMethods\\Student.cs",
+              "RelativeDocumentMoniker": "objectMethods\\Student.cs",
+              "ToolTip": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\objectMethods\\Student.cs",
+              "RelativeToolTip": "objectMethods\\Student.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:09:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\objectMethods\\Program.cs",
+              "RelativeDocumentMoniker": "objectMethods\\Program.cs",
+              "ToolTip": "C:\\Projects\\C#\\csharp-tutorial-projects\\Youtube-OOP\\2-student-object-simulation\\objectMethods\\objectMethods\\Program.cs",
+              "RelativeToolTip": "objectMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:06:56.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

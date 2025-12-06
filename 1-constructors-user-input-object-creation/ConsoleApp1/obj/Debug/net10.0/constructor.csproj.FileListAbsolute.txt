@@ -1,0 +1,14 @@
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\bin\Debug\net10.0\constructor.exe
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\bin\Debug\net10.0\constructor.deps.json
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\bin\Debug\net10.0\constructor.runtimeconfig.json
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\bin\Debug\net10.0\constructor.dll
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\bin\Debug\net10.0\constructor.pdb
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\constructor.AssemblyInfoInputs.cache
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\constructor.AssemblyInfo.cs
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\constructor.csproj.CoreCompileInputs.cache
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\constructor.dll
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\refint\constructor.dll
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\constructor.pdb
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\constructor.genruntimeconfig.cache
+C:\Projects\C#\csharp-tutorial-projects\Youtube-OOP\1-constructors\ConsoleApp1\obj\Debug\net10.0\ref\constructor.dll
