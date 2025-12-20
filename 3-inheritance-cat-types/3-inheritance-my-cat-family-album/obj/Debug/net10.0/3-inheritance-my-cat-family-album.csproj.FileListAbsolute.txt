@@ -1,0 +1,15 @@
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-my-cat-family-album.exe
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-my-cat-family-album.deps.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-my-cat-family-album.runtimeconfig.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-my-cat-family-album.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-my-cat-family-album.pdb
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-my-cat-family-album.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-my-cat-family-album.AssemblyInfoInputs.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-my-cat-family-album.AssemblyInfo.cs
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-my-cat-family-album.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-my-cat-family-album.sourcelink.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-my-cat-family-album.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\refint\3-inheritance-my-cat-family-album.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-my-cat-family-album.pdb
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-my-cat-family-album.genruntimeconfig.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-my-cat-family-album\3-inheritance-my-cat-family-album\obj\Debug\net10.0\ref\3-inheritance-my-cat-family-album.dll

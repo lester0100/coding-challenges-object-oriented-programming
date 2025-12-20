@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "3-inheritance-my-cat-family-album/1.0.0": {
+        "runtime": {
+          "3-inheritance-my-cat-family-album.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3-inheritance-my-cat-family-album/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
