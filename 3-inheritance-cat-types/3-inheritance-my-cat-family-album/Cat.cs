@@ -1,9 +1,9 @@
-﻿using _3_inheritance_my_cat_family_album;
+﻿using _3_inheritance_cat_types;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _3_inheritance_my_cat_family_album
+namespace _3_inheritance_cat_types
 {
     class Cat
     {

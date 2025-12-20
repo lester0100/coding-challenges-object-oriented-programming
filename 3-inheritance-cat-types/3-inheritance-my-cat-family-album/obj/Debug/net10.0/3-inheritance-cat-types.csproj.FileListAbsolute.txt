@@ -1,0 +1,15 @@
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-cat-types.exe
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-cat-types.deps.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-cat-types.runtimeconfig.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-cat-types.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\bin\Debug\net10.0\3-inheritance-cat-types.pdb
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-cat-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-cat-types.AssemblyInfoInputs.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-cat-types.AssemblyInfo.cs
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-cat-types.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-cat-types.sourcelink.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-cat-types.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\refint\3-inheritance-cat-types.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-cat-types.pdb
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\3-inheritance-cat-types.genruntimeconfig.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\3-inheritance-cat-types\3-inheritance-my-cat-family-album\obj\Debug\net10.0\ref\3-inheritance-cat-types.dll

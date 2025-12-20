@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\GitHub\\C#\\coding-challenges-object-oriented-programming\\3-inheritance-my-cat-family-album\\3-inheritance-my-cat-family-album\\3-inheritance-my-cat-family-album.csproj",
-      "projectName": "3-inheritance-my-cat-family-album",
-      "projectPath": "C:\\Projects\\GitHub\\C#\\coding-challenges-object-oriented-programming\\3-inheritance-my-cat-family-album\\3-inheritance-my-cat-family-album\\3-inheritance-my-cat-family-album.csproj",
+      "projectUniqueName": "C:\\Projects\\GitHub\\C#\\coding-challenges-object-oriented-programming\\3-inheritance-cat-types\\3-inheritance-my-cat-family-album\\3-inheritance-cat-types.csproj",
+      "projectName": "3-inheritance-cat-types",
+      "projectPath": "C:\\Projects\\GitHub\\C#\\coding-challenges-object-oriented-programming\\3-inheritance-cat-types\\3-inheritance-my-cat-family-album\\3-inheritance-cat-types.csproj",
       "packagesPath": "C:\\Users\\vincent\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\GitHub\\C#\\coding-challenges-object-oriented-programming\\3-inheritance-my-cat-family-album\\3-inheritance-my-cat-family-album\\obj\\",
+      "outputPath": "C:\\Projects\\GitHub\\C#\\coding-challenges-object-oriented-programming\\3-inheritance-cat-types\\3-inheritance-my-cat-family-album\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,4 +1,4 @@
-﻿using _3_inheritance_my_cat_family_album;
+﻿using _3_inheritance_cat_types;
 
 HouseCat cat1 = new HouseCat(name: "Orange", color: "Orange", age: 5, breed: "No breed");
 HouseCat cat2 = new HouseCat(name: "Gusion", color: "Gray", age: 1, breed: "Persian");
