@@ -7,17 +7,17 @@ StrayCat cat4 = new StrayCat(name: "Oreo", color: "Dark brown", age: 6, breed: "
 RescueCat cat5 = new RescueCat(name: "Coffee", color: "Dark brown", age: 4, breed: "Siamese", shelter:  "Animal Society", isVaccinated: true);
 RescueCat cat6 = new RescueCat(name: "Mythic", color: "Panda", age: 7, breed: "No breed", shelter: "Cat Foundation", isVaccinated: false);
 
-cat1.HouseCatProfile();
+cat1.DisplayProfile();
 Console.WriteLine();
-cat2.HouseCatProfile();
+cat2.DisplayProfile();
 Console.WriteLine();
 
-cat3.StrayCatProfile();
+cat3.DisplayProfile();
 cat3.Fight();
 Console.WriteLine();
-cat4.StrayCatProfile();
+cat4.DisplayProfile();
 Console.WriteLine();
 
-cat5.RescueCatProfile();
+cat5.DisplayProfile();
 Console.WriteLine();
-cat6.RescueCatProfile();
+cat6.DisplayProfile();

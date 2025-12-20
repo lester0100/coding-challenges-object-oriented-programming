@@ -1,26 +1,23 @@
 ﻿using _3_inheritance_cat_types;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Text;
+using System.Xml.Linq;
 
 namespace _3_inheritance_cat_types
 {
-    class Cat
+    internal class Cat
     {
-        public string name { get; set; }
-        public string color { get; set; }
-        public int age { get; set; }
+        public string Name { get; set; }
+        public string Color { get; set; }
+        public int Age { get; set; }
 
         public Cat(string name, string color, int age)
         {
-            this.name = name;
-            this.color = color;
-            this.age = age;
-        }
-
-        public virtual void CatProfile()
-        {
-            Console.WriteLine($"Name:   {name}\nColor:  {color}\nAge:   {age}");
+            Name = name;
+            Color = color;
+            Age = age;
         }
     }
 
@@ -33,10 +30,9 @@ namespace _3_inheritance_cat_types
             this.breed = breed;
         }
 
-        public void HouseCatProfile()
+        public void DisplayProfile()
         {
-            base.CatProfile();
-            Console.WriteLine($"Breed:  {breed}");
+            Console.WriteLine($"Name:   {Name}\nColor:  {Color}\nAge:   {Age}\nBreed:   {breed}");
         }
     }
     
@@ -51,12 +47,12 @@ namespace _3_inheritance_cat_types
 
         public void Fight()
         {
-            Console.WriteLine($"{name} is fighting.");
+            Console.WriteLine($"{Name} is fighting.");
         }
 
-        public void StrayCatProfile()
+        public void DisplayProfile()
         {
-            base.HouseCatProfile();
+            base.DisplayProfile();
             Console.WriteLine($"Territory:  {territory}");
         }
     }
@@ -72,9 +68,9 @@ namespace _3_inheritance_cat_types
             this.isVaccinated = isVaccinated;
         }
 
-        public void RescueCatProfile()
+        public void DisplayProfile()
         {
-            base.HouseCatProfile();
+            base.DisplayProfile();
             Console.Write($"Shelter:    {shelter}\nVaccine status:  ");
             Console.WriteLine(isVaccinated ? "Vaccinated" : "Not vaccinated");
         }
