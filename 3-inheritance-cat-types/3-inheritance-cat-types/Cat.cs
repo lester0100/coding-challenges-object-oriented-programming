@@ -32,7 +32,7 @@ namespace _3_inheritance_cat_types
 
         public void DisplayProfile()
         {
-            Console.WriteLine($"Name:   {Name}\nColor:  {Color}\nAge:   {Age}\nBreed:   {breed}");
+            Console.WriteLine($"\nName:   {Name}\nColor:  {Color}\nAge:   {Age}\nBreed:   {breed}");
         }
     }
     

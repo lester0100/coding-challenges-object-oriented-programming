@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3-inheritance-cat-types")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fcd903e962656e220382c3de973ff66168d3f20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b84652cda4dc41fb095289b9bdd3854b108006d")]
 [assembly: System.Reflection.AssemblyProductAttribute("3-inheritance-cat-types")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3-inheritance-cat-types")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
