@@ -1,0 +1,15 @@
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\4-polymorphism-notification-sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\4-polymorphism-notification-sender.AssemblyInfoInputs.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\4-polymorphism-notification-sender.AssemblyInfo.cs
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\4-polymorphism-notification-sender.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\4-polymorphism-notification-sender.sourcelink.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\bin\Debug\net10.0\4-polymorphism-notification-sender.exe
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\bin\Debug\net10.0\4-polymorphism-notification-sender.deps.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\bin\Debug\net10.0\4-polymorphism-notification-sender.runtimeconfig.json
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\bin\Debug\net10.0\4-polymorphism-notification-sender.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\bin\Debug\net10.0\4-polymorphism-notification-sender.pdb
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\4-polymorphism-notification-sender.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\refint\4-polymorphism-notification-sender.dll
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\4-polymorphism-notification-sender.pdb
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\4-polymorphism-notification-sender.genruntimeconfig.cache
+C:\Projects\GitHub\C#\coding-challenges-object-oriented-programming\4-polymorphism-notification-sender\4-polymorphism-notification-sender\obj\Debug\net10.0\ref\4-polymorphism-notification-sender.dll
